@@ -1,0 +1,114 @@
+body{
+    background-image: url("./image/junk-food-istock-zeljkosantrac.jpg");
+    background-size: cover;
+}
+h1{
+    margin-left: 600px;
+
+}
+.food{
+    /* height: 500px;
+    background-color: transparent ;
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* justify-content: end; */
+    /* align-items: center; */
+    height: 440px;
+    background-color: black;
+    color: white;
+    border: 5px white solid;
+    width: 21%;
+    float: left;
+    padding: 20px;
+} 
+.fo{
+    width: 240px;
+    height: 420px;
+    border: 2px black solid;
+    border-radius: 30px;
+    
+}
+.fo-1{
+    background-color: rgb(128, 162, 192);
+    position: relative;
+    
+}
+.fo-2{
+    background-color: rgb(130, 159, 185);
+    position: relative;
+}
+.fo-3{
+    background-color: rgb(131, 161, 188);
+    position: relative;
+}
+.fo-4{
+    background-color: rgb(135, 165, 190);
+    position: relative;
+}
+.fd{margin-top: 220px;
+    color: azure;
+}
+.fd1{
+    margin-top: 220px;
+    color: azure;
+}
+.fd2{
+    margin-top: 220px;
+    color: azure;
+}
+.fd3{
+    margin-top: 200px;
+    color: azure;
+    
+}
+.food1{
+     border-radius: 30px;
+     /* margin-top: 0px; */
+     width: 170px;
+     height: 200;
+     margin-left: 30px;
+     background-color: rgb(255, 255, 255);
+    color: rgb(63, 39, 225);
+    border-radius: 30px;
+    height: 50px;
+    /* background-color: rgb(0, 0, 0);
+    color: white; */
+}
+button{
+    margin-left: 670px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+button:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(25, 0, 255);
+}
+span{
+    color: black;
+}
+.im1{
+    width: 40%;
+    height: 300px;
+}
+
+
+
+    
+
+
+
+/* postion properties
+1. static
+2. absolute
+3. relative
+4. fixed
+5. sticky
+ */
